@@ -1,7 +1,5 @@
 #First Without GUI
 
-
-
 def is_valid(board, row, col, num):
     for x in range(9):
         if board[row][x] == num:
