@@ -42,10 +42,12 @@ Tkinter library (comes pre-installed with Python on most platforms).
 **Steps**
 
 *Clone the repository:*
+
 git clone https://github.com/yourusername/sudoku-solver-generator.git
 cd sudoku-solver-generator
 
 *Run the program:*
+
 python sudoku_solver.py
 
 **Usage**
